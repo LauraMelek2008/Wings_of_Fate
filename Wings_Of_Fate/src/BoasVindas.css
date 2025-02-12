@@ -1,0 +1,8 @@
+.conteiner-boasVindas{
+background-color: black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+min-height: 100vh;
+}
+

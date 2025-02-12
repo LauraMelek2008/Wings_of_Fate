@@ -1,0 +1,34 @@
+.container-body{
+   background-color: #001935;
+   height: 30vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+.titulo-wings{
+    border: 10px rgb(190, 95, 95) solid;
+  height: 40%;
+  width: 100vh;
+}
+  
+
+.titulo-fate{
+    font-size: 230%;
+    color: rgb(255, 255, 255);
+    font-family: "Major Mono Display", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.butao-start, .butao-dados {
+margin: 10%;
+color: rgb(13, 59, 100);
+width: 30%;
+height: 4vh;
+
+}
+
+
+
