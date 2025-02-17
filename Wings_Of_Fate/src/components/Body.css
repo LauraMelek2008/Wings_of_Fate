@@ -1,34 +1,50 @@
 .container-body{
    background-color: #001935;
-   height: 30vh;
+   height: 40vh;
    display: flex;
    justify-content: center;
    align-items: center;
    text-align: center;
 }
 
-.titulo-wings{
-    border: 10px rgb(190, 95, 95) solid;
-  height: 40%;
-  width: 100vh;
-}
-  
-
 .titulo-fate{
-    font-size: 230%;
+
+    font-size: 300%;
     color: rgb(255, 255, 255);
     font-family: "Major Mono Display", serif;
-    font-weight: 900;
+    font-weight: 990;
     font-style: normal;
+    top: 35%;
+    left: 5%;
+    width: 90%;
+    position: fixed;
 }
 
-.butao-start, .butao-dados {
-margin: 10%;
-color: rgb(13, 59, 100);
-width: 30%;
-height: 4vh;
+.butao-start{
+  top: 60%;
+  left: 8vh;
+  font-size: 120%;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  color: rgb(0, 24, 44);
+  width: 28%;
+  height: 5vh;
+  background-color: #bad9fc;
+  position: fixed;
+  }
 
+.butao-dados {
+  top: 60%;
+right: 8vh;
+font-size: 120%;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+color: rgb(0, 24, 44);
+width: 28%;
+height: 5vh;
+background-color: #bad9fc;
+position: fixed;
 }
-
-
 
