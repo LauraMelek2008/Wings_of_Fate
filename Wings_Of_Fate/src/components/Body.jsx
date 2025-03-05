@@ -11,8 +11,8 @@ function Body() {
     <h1  className='titulo-fate'>Wings of Fate</h1>
    
 
+    <Link to={"/rpg"}><button className='butao-start'>START</button> </Link>
    
-      <button className='butao-start'>START</button>
       <Link  to={"/dados"}><button className='butao-dados'>DICE</button></Link>
     </div>
   </div>
